@@ -56,7 +56,7 @@ Try the interactive simulator: **[Launch App](https://monty-hall-simulator.strea
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/monty-hall-simulator.git
+git clone https://github.com/vijaydwivedi-ml/monty-hall-simulator.git
 cd monty-hall-simulator
 ```
 
