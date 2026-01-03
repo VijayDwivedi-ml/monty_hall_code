@@ -6,8 +6,6 @@
 
 An interactive educational simulator that demonstrates the famous Monty Hall probability paradox through real-time visualization and experimentation.
 
-![Monty Hall Simulation Demo](https://via.placeholder.com/800x450/0ea5e9/ffffff?text=Monty+Hall+Probability+Convergence)
-
 ## 📖 What is the Monty Hall Problem?
 
 The Monty Hall problem is a famous probability puzzle based on the American game show "Let's Make a Deal." The paradox demonstrates how our intuition about probability can often be wrong, and how conditional probability works in practice.
@@ -186,7 +184,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/monty-hall-simulator/issues)
+- **Issues**: [GitHub Issues](https://github.com/vijaydwivedi-ml/monty-hall-simulator/issues)
 - **Educational inquiries**: For classroom use or curriculum integration
 - **Feedback**: Suggestions for improving the educational value
 
